@@ -7,7 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from time import sleep
 
 
-site_link = "https://testit.tcinet.ru/projects/1321/tests?isolatedSection=b0476315-19ca-40c0-b169-8a7ab715b678"
+site_link = ""
 username = ""
 password = ""
 
